@@ -3,23 +3,29 @@
 ![](Social_Buzz.png)
 
 
-##Project Overview
+## PROJECT OVERVIEW
 
 This project focuses on analyzing Social Buzz's unstructured data (100,000+ posts/day) to identify the top 5 content categories that drive engagement.
 
-##Key Findings
+## KEY FINDING
 
 ✔ Top 5 categories: Animals, Science, Healthy Eating, Technology, and Food
+
 ✔ January is the most active month for user engagement
+
 ✔ Healthy eating content is highly engaging, suggesting a health-conscious audience
 
-##Technologies Used
+## Technologies Used
 
 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 🔹 Jupyter Notebook
+
 🔹 Data Cleaning & Visualization
+
 🔹 Business Intelligence & Storytelling
 
-##Project Presentation Video🎥
+
+## Project Presentation Video 🎥
 
 📌 Watch on YouTube ()
