@@ -29,4 +29,4 @@ This project focuses on analyzing Social Buzz's unstructured data (100,000+ post
 
 ## Project Presentation Video 🎥
 
-📌 Watch on YouTube ()
+📌 Watch on YouTube (https://youtu.be/kOMGfaAE5TQ)
